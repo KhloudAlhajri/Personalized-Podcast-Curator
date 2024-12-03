@@ -3,16 +3,6 @@ Welcome to the Saudi Podcast Curator...
 
 Helps you find the podcast that suits your desires...
 
-Students names:
-Noura A. Alalyani 2210003506
-Hajer A. Alssadan 2210003576
-Shaikha M. Alhajri 2210003712
-Zainab J. Althonayan 2210003545
-Khloud K. Alhajri 2210003551
-Muneera J. Aljalal 2210003530
-*/
-
-
 % Knowledge base with podcasts
 
 % Social
